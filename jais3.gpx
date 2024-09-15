@@ -1,0 +1,1935 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
+  <name>Top Layer</name>
+<wpt lat="26.261999130997445" lon="81.51905600057697">
+  <ele>117</ele>
+  <time>2024-08-31T10:21:07.638000Z</time>
+  <name> P2 Disable stair</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;117 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.1 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3</hdop>
+</wpt>
+<wpt lat="26.262309" lon="81.518979">
+  <name>Bridge</name>
+</wpt>
+<wpt lat="26.26231" lon="81.519167">
+  <name>Disable Stair</name>
+</wpt>
+<wpt lat="26.26239390866702" lon="81.51944894419765">
+  <ele>136</ele>
+  <time>2024-08-31T09:52:40.500000Z</time>
+  <name>Entry</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;136 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.1 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3</hdop>
+</wpt>
+<wpt lat="26.262328825951165" lon="81.5199538142665">
+  <ele>111</ele>
+  <time>2024-08-31T09:59:24.813998Z</time>
+  <name>Exit</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;111 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.1 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3.01</hdop>
+</wpt>
+<wpt lat="26.262307616937974" lon="81.51897955762004">
+  <ele>136</ele>
+  <time>2024-08-31T10:10:25.273998Z</time>
+  <name>Merge 1</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;136 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.0 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3</hdop>
+</wpt>
+<wpt lat="26.262218" lon="81.519383">
+  <name>P1</name>
+</wpt>
+<wpt lat="26.262049" lon="81.520211">
+  <name>P1 End</name>
+  <sym>Red Diamon</sym>
+</wpt>
+<wpt lat="26.262023485181455" lon="81.51911467389917">
+  <name>P2</name>
+</wpt>
+<wpt lat="26.2618048986899" lon="81.51996661053752">
+  <ele>112</ele>
+  <time>2024-08-31T10:14:24.684998Z</time>
+  <name>P2 Water </name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;112 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Azimuth&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;123 &#xb0;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3.01</hdop>
+</wpt>
+<wpt lat="26.262031302571362" lon="81.51891082601404">
+  <ele>131</ele>
+  <time>2024-08-31T10:11:28.288000Z</time>
+  <name>P2MFB+D</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;131 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.0 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3</hdop>
+</wpt>
+<wpt lat="26.262216075357816" lon="81.51987569492894">
+  <ele>117</ele>
+  <time>2024-08-31T10:01:20.029999Z</time>
+  <name>Price list</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;117 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.1 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3</hdop>
+</wpt>
+<wpt lat="26.26201326243751" lon="81.51906035916662">
+  <ele>118</ele>
+  <time>2024-08-31T10:12:23.191998Z</time>
+  <name>Pt 2 stairs</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;118 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.1 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3</hdop>
+</wpt>
+<wpt lat="26.262203447284133" lon="81.52011340570289">
+  <ele>119</ele>
+  <time>2024-08-31T10:02:39.191998Z</time>
+  <name>Relay room</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;119 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.1 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3</hdop>
+</wpt>
+<wpt lat="26.262296" lon="81.519166">
+  <name>Stairs</name>
+</wpt>
+<wpt lat="26.26220705530575" lon="81.51981869798738">
+  <ele>118</ele>
+  <time>2024-08-31T09:56:36.598999Z</time>
+  <name>Tea stall</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;118 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.2 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3</hdop>
+</wpt>
+<wpt lat="26.262242834842024" lon="81.52002019893962">
+  <ele>118</ele>
+  <time>2024-08-31T09:58:27.674000Z</time>
+  <name>Ticket Counter</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;118 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.0 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3</hdop>
+</wpt>
+<wpt lat="26.262200741268646" lon="81.51995347899037">
+  <ele>117</ele>
+  <time>2024-08-31T09:59:00.476000Z</time>
+  <name>Train Info</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;117 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.1 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3</hdop>
+</wpt>
+<wpt lat="26.261895099492765" lon="81.51958540158128">
+  <ele>136</ele>
+  <time>2024-08-31T10:13:39.605998Z</time>
+  <name>pt2 end</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;136 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.2 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3</hdop>
+</wpt>
+<wpt lat="26.26224253417375" lon="81.51974191975432">
+  <ele>123</ele>
+  <time>2024-08-31T09:57:15.059000Z</time>
+  <name>water</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;#ff000000&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;123 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0.4 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Azimuth&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;276 &#xb0;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Accuracy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;3.0 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:56:37&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <sym>Waypoint</sym>
+  <hdop>3</hdop>
+</wpt>
+<trk>
+  <name>Track</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Black</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  </trkseg>
+</trk>
+<trk>
+  <name>Track#10</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Black</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  </trkseg>
+</trk>
+<trk>
+  <name>Track#2</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Black</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  </trkseg>
+</trk>
+<trk>
+  <name>Track#3</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Black</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  </trkseg>
+</trk>
+<trk>
+  <name>Track#4</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Black</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  </trkseg>
+</trk>
+<trk>
+  <name>Track#5</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Black</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  </trkseg>
+</trk>
+<trk>
+  <name>Track#6</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Black</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  </trkseg>
+</trk>
+<trk>
+  <name>Track#7</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Black</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  </trkseg>
+</trk>
+<trk>
+  <name>Track#8</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Black</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  </trkseg>
+</trk>
+<trk>
+  <name>Track#9</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Black</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  </trkseg>
+</trk>
+<rte>
+  <name>Jais Railways Map</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkRed</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#10</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#11</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkRed</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#12</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#14</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#15</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#16</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkRed</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#17</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkRed</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#18</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#19</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkRed</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#2</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkRed</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#3</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#4</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkRed</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#5</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#6</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkRed</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#7</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#9</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+</rte>
+<rte>
+  <name>Jais Railways Map#13</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkRed</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.26201243233968" lon="81.51906065815362">
+    <ele>115.57</ele>
+  </rtept>
+</rte>
+<rte>
+  <name>Jais Railways Map#20</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.26204890360994" lon="81.52021231216031">
+    <ele>121.77</ele>
+  </rtept>
+</rte>
+<rte>
+  <name>Jais Railways Map#21</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkRed</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262310022283252" lon="81.51916664169883">
+    <ele>136.29</ele>
+  </rtept>
+  <rtept lat="26.262295590212698" lon="81.51916530059432">
+    <ele>136.29</ele>
+  </rtept>
+</rte>
+<rte>
+  <name>Jais Railways Map#8</name>
+  <desc>&lt;!-- desc_gen:start --&gt; &lt;font color=&quot;black&quot;&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Activity&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Walking&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Distance&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.4 km&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Created&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2024-08-31 15:22:16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;2.6 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Pace&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;37:56 min/mile&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Energy&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;924 KJ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Points&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;128&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;All&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Speed &gt; 0&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Avg. speed&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.6 mi/h&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;1.9 mi/h&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Track time&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:33:44&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0:25:46&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Min. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;108 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Max. altitude&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;139 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;1&quot;&gt;&lt;hr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;table width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Elevation&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;Distance&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Uphill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;844 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Downhill&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;-304 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;587 m&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot; valign=&quot;center&quot;&gt;&lt;small&gt;&lt;b&gt;Flat&lt;/b&gt;&lt;/small&gt;&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;td align=&quot;center&quot; valign=&quot;center&quot;&gt;0 m&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt; &lt;!-- desc_gen:end --&gt;</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkRed</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.26202415842776" lon="81.51911430233392">
+    <ele>136.29</ele>
+  </rtept>
+</rte>
+<rte>
+  <name>Route</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262102422650624" lon="81.51892317545253">
+  </rtept>
+  <rtept lat="26.262093101920865" lon="81.51892183434802">
+  </rtept>
+  <rtept lat="26.262086186540245" lon="81.51892015796739">
+  </rtept>
+  <rtept lat="26.2620780684842" lon="81.5189178110345">
+  </rtept>
+  <rtept lat="26.26207145377145" lon="81.51891680520612">
+  </rtept>
+  <rtept lat="26.26206333571438" lon="81.51891479354936">
+  </rtept>
+  <rtept lat="26.262056721000793" lon="81.51891378772098">
+  </rtept>
+  <rtept lat="26.262050406955648" lon="81.51891345244485">
+  </rtept>
+  <rtept lat="26.262045596254357" lon="81.51891144078809">
+  </rtept>
+  <rtept lat="26.2620365761889" lon="81.5189090938552">
+  </rtept>
+  <rtept lat="26.262030262142666" lon="81.51891009968358">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#10</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.26224163216846" lon="81.51991425168353">
+  </rtept>
+  <rtept lat="26.262247344866577" lon="81.51991626334029">
+  </rtept>
+  <rtept lat="26.26225305756441" lon="81.51991827499705">
+  </rtept>
+  <rtept lat="26.262258469593682" lon="81.5199212924822">
+  </rtept>
+  <rtept lat="26.262263580954425" lon="81.5199226335867">
+  </rtept>
+  <rtept lat="26.262269894987973" lon="81.51992498051959">
+  </rtept>
+  <rtept lat="26.26227530701646" lon="81.51992699217635">
+  </rtept>
+  <rtept lat="26.262281320381145" lon="81.51992967438537">
+  </rtept>
+  <rtept lat="26.26228763441373" lon="81.51993168604213">
+  </rtept>
+  <rtept lat="26.262295752455124" lon="81.5199350388034">
+  </rtept>
+  <rtept lat="26.262301765818748" lon="81.5199363799079">
+  </rtept>
+  <rtept lat="26.262307177845745" lon="81.51993839156466">
+  </rtept>
+  <rtept lat="26.262312890540642" lon="81.51993973266917">
+  </rtept>
+  <rtept lat="26.26231649855832" lon="81.51994308543044">
+  </rtept>
+  <rtept lat="26.262321910584635" lon="81.51994610291558">
+  </rtept>
+  <rtept lat="26.262326119938255" lon="81.51994945567685">
+  </rtept>
+  <rtept lat="26.26232822461501" lon="81.51995448481875">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#11</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.26208408185681" lon="81.52003830385047">
+  </rtept>
+  <rtept lat="26.262090395900113" lon="81.52004165661174">
+  </rtept>
+  <rtept lat="26.26209490593084" lon="81.520045009373">
+  </rtept>
+  <rtept lat="26.262100919304867" lon="81.52004903268653">
+  </rtept>
+  <rtept lat="26.262106932678588" lon="81.5200523854478">
+  </rtept>
+  <rtept lat="26.262113547389312" lon="81.52005674403745">
+  </rtept>
+  <rtept lat="26.262121364774234" lon="81.52006043207484">
+  </rtept>
+  <rtept lat="26.26212557413513" lon="81.52006277900773">
+  </rtept>
+  <rtept lat="26.262131587507568" lon="81.52006847870189">
+  </rtept>
+  <rtept lat="26.262138803554084" lon="81.5200698198064">
+  </rtept>
+  <rtept lat="26.262142712245762" lon="81.52007283729154">
+  </rtept>
+  <rtept lat="26.26214692160588" lon="81.5200761900528">
+  </rtept>
+  <rtept lat="26.262152934977216" lon="81.52007887226182">
+  </rtept>
+  <rtept lat="26.26215894834824" lon="81.52008088391858">
+  </rtept>
+  <rtept lat="26.26216225570217" lon="81.52008524250823">
+  </rtept>
+  <rtept lat="26.26216826907271" lon="81.52008725416499">
+  </rtept>
+  <rtept lat="26.26217398177443" lon="81.52009094220239">
+  </rtept>
+  <rtept lat="26.26217939380739" lon="81.52009295385915">
+  </rtept>
+  <rtept lat="26.262183302497697" lon="81.52009463023978">
+  </rtept>
+  <rtept lat="26.262186609850936" lon="81.52009798300105">
+  </rtept>
+  <rtept lat="26.262194427230938" lon="81.5201023415907">
+  </rtept>
+  <rtept lat="26.262199839262937" lon="81.5201073707326">
+  </rtept>
+  <rtept lat="26.262203747952558" lon="81.52011273515063">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#12</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262269432077257" lon="81.51921559201335">
+  </rtept>
+  <rtept lat="26.26227304009629" lon="81.51920955704307">
+  </rtept>
+  <rtept lat="26.26227634744697" lon="81.51920184569215">
+  </rtept>
+  <rtept lat="26.262279955465782" lon="81.5191937990651">
+  </rtept>
+  <rtept lat="26.262282060143374" lon="81.51918608771419">
+  </rtept>
+  <rtept lat="26.26228596883023" lon="81.51917804108714">
+  </rtept>
+  <rtept lat="26.262290178185157" lon="81.51917133556461">
+  </rtept>
+  <rtept lat="26.262294387539935" lon="81.51916798280334">
+  </rtept>
+  <rtept lat="26.262295590212698" lon="81.51916463004207">
+  </rtept>
+  <rtept lat="26.262296191549073" lon="81.51916463004207">
+  </rtept>
+  <rtept lat="26.26229649221726" lon="81.5191575892434">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#13</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262013262439098" lon="81.51906035916662">
+  </rtept>
+  <rtept lat="26.262015367121524" lon="81.51906505303239">
+  </rtept>
+  <rtept lat="26.262017171135007" lon="81.51907108800268">
+  </rtept>
+  <rtept lat="26.262018073141732" lon="81.51907745824909">
+  </rtept>
+  <rtept lat="26.262020177824066" lon="81.51908315794324">
+  </rtept>
+  <rtept lat="26.26202138049967" lon="81.51908986346578">
+  </rtept>
+  <rtept lat="26.26202228250637" lon="81.5190975748167">
+  </rtept>
+  <rtept lat="26.26202498852641" lon="81.51910562144374">
+  </rtept>
+  <rtept lat="26.26202619120197" lon="81.51910930948114">
+  </rtept>
+  <rtept lat="26.262023785850843" lon="81.51911366807079">
+  </rtept>
+  <rtept lat="26.26202228250637" lon="81.51911735610818">
+  </rtept>
+  <rtept lat="26.26202228250637" lon="81.51912204997396">
+  </rtept>
+  <rtept lat="26.262019275817355" lon="81.5191287554965">
+  </rtept>
+  <rtept lat="26.262018373810637" lon="81.5191351257429">
+  </rtept>
+  <rtept lat="26.26201566779044" lon="81.51914283709382">
+  </rtept>
+  <rtept lat="26.26201356310802" lon="81.51915289537763">
+  </rtept>
+  <rtept lat="26.26201055641878" lon="81.51915859507179">
+  </rtept>
+  <rtept lat="26.262008151067338" lon="81.51916865335559">
+  </rtept>
+  <rtept lat="26.26200634705372" lon="81.51917636470651">
+  </rtept>
+  <rtept lat="26.262003641033242" lon="81.51918776409482">
+  </rtept>
+  <rtept lat="26.262000935012704" lon="81.51919815765476">
+  </rtept>
+  <rtept lat="26.26199702631625" lon="81.51920452790117">
+  </rtept>
+  <rtept lat="26.26199432029556" lon="81.51921156869983">
+  </rtept>
+  <rtept lat="26.261993117619674" lon="81.51921928005075">
+  </rtept>
+  <rtept lat="26.261989810260925" lon="81.51923336164808">
+  </rtept>
+  <rtept lat="26.26198710424006" lon="81.51924576686477">
+  </rtept>
+  <rtept lat="26.261984698888128" lon="81.51925448404407">
+  </rtept>
+  <rtept lat="26.26198229353615" lon="81.51925884263372">
+  </rtept>
+  <rtept lat="26.261978084170064" lon="81.51927158312654">
+  </rtept>
+  <rtept lat="26.26197778350105" lon="81.51927962975358">
+  </rtept>
+  <rtept lat="26.261975077479907" lon="81.51928968803739">
+  </rtept>
+  <rtept lat="26.2619735741348" lon="81.51929304079866">
+  </rtept>
+  <rtept lat="26.261970567444525" lon="81.51930309908246">
+  </rtept>
+  <rtept lat="26.261966658747053" lon="81.51932422147846">
+  </rtept>
+  <rtept lat="26.26196094603513" lon="81.51933863835191">
+  </rtept>
+  <rtept lat="26.2619597433589" lon="81.51934802608346">
+  </rtept>
+  <rtept lat="26.26195673666827" lon="81.51935707853889">
+  </rtept>
+  <rtept lat="26.26195433131571" lon="81.5193684779272">
+  </rtept>
+  <rtept lat="26.26195132462494" lon="81.51938323007678">
+  </rtept>
+  <rtept lat="26.26194741592682" lon="81.51938993559932">
+  </rtept>
+  <rtept lat="26.261945010574067" lon="81.51940301136827">
+  </rtept>
+  <rtept lat="26.26194320655947" lon="81.5194097168908">
+  </rtept>
+  <rtept lat="26.261941402544842" lon="81.5194170929656">
+  </rtept>
+  <rtept lat="26.26194019986841" lon="81.51942312793588">
+  </rtept>
+  <rtept lat="26.261936892508157" lon="81.51943419204807">
+  </rtept>
+  <rtept lat="26.26193418648606" lon="81.51944324450349">
+  </rtept>
+  <rtept lat="26.26193208180216" lon="81.51945397333955">
+  </rtept>
+  <rtept lat="26.261929375779953" lon="81.51946235524272">
+  </rtept>
+  <rtept lat="26.261925767750245" lon="81.51947375463104">
+  </rtept>
+  <rtept lat="26.261922159720424" lon="81.51948783622836">
+  </rtept>
+  <rtept lat="26.261918852359653" lon="81.51949051843738">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#14</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.26191885235948" lon="81.51949051843738">
+  </rtept>
+  <rtept lat="26.26191855169031" lon="81.51949487702703">
+  </rtept>
+  <rtept lat="26.261917649682815" lon="81.51949856506442">
+  </rtept>
+  <rtept lat="26.261916747675304" lon="81.51950258837795">
+  </rtept>
+  <rtept lat="26.261913740983562" lon="81.51950962917661">
+  </rtept>
+  <rtept lat="26.261913440314384" lon="81.51951834635591">
+  </rtept>
+  <rtept lat="26.261911034960928" lon="81.51952438132619">
+  </rtept>
+  <rtept lat="26.26190772759984" lon="81.51953175740098">
+  </rtept>
+  <rtept lat="26.261905923584663" lon="81.51954114513254">
+  </rtept>
+  <rtept lat="26.261902315554227" lon="81.51954885648345">
+  </rtept>
+  <rtept lat="26.26190171421581" lon="81.5195532150731">
+  </rtept>
+  <rtept lat="26.26189900819289" lon="81.51956494973754">
+  </rtept>
+  <rtept lat="26.261896602839137" lon="81.51957634912586">
+  </rtept>
+  <rtept lat="26.261894498154557" lon="81.51958506630515">
+  </rtept>
+  <rtept lat="26.261892393469942" lon="81.51958875434255">
+  </rtept>
+  <rtept lat="26.261892393469942" lon="81.51959344820833">
+  </rtept>
+  <rtept lat="26.261889386777565" lon="81.51960082428312">
+  </rtept>
+  <rtept lat="26.261887883431353" lon="81.51960786508178">
+  </rtept>
+  <rtept lat="26.261885478077364" lon="81.51961322949981">
+  </rtept>
+  <rtept lat="26.26188457606961" lon="81.51962027029847">
+  </rtept>
+  <rtept lat="26.261881268707768" lon="81.51963166968679">
+  </rtept>
+  <rtept lat="26.261878562684373" lon="81.5196417279706">
+  </rtept>
+  <rtept lat="26.261874052645247" lon="81.51965312735891">
+  </rtept>
+  <rtept lat="26.26187254929883" lon="81.51966117398595">
+  </rtept>
+  <rtept lat="26.26187044461382" lon="81.51966855006074">
+  </rtept>
+  <rtept lat="26.261867137251578" lon="81.51967994944906">
+  </rtept>
+  <rtept lat="26.261862025873384" lon="81.51969637797927">
+  </rtept>
+  <rtept lat="26.261860221857496" lon="81.51970509515857">
+  </rtept>
+  <rtept lat="26.261856914494963" lon="81.51971314178562">
+  </rtept>
+  <rtept lat="26.26185390780167" lon="81.51972387062168">
+  </rtept>
+  <rtept lat="26.261849097092238" lon="81.5197366111145">
+  </rtept>
+  <rtept lat="26.261844887721324" lon="81.51975371019697">
+  </rtept>
+  <rtept lat="26.261842482366447" lon="81.51976477430915">
+  </rtept>
+  <rtept lat="26.26183887433404" lon="81.51977550314521">
+  </rtept>
+  <rtept lat="26.26183887433404" lon="81.51978690253353">
+  </rtept>
+  <rtept lat="26.261835266301517" lon="81.51979997830247">
+  </rtept>
+  <rtept lat="26.261834063623986" lon="81.51981439517593">
+  </rtept>
+  <rtept lat="26.261830756260707" lon="81.51982747094488">
+  </rtept>
+  <rtept lat="26.261828952244336" lon="81.5198415525422">
+  </rtept>
+  <rtept lat="26.261826847558527" lon="81.5198465816841">
+  </rtept>
+  <rtept lat="26.261826847558527" lon="81.51984691696023">
+  </rtept>
+  <rtept lat="26.261826546889125" lon="81.51985630469179">
+  </rtept>
+  <rtept lat="26.26182293885622" lon="81.5198690451846">
+  </rtept>
+  <rtept lat="26.261819631492628" lon="81.51988580899095">
+  </rtept>
+  <rtept lat="26.261819330823208" lon="81.5199002258644">
+  </rtept>
+  <rtept lat="26.26181662479837" lon="81.51991128997659">
+  </rtept>
+  <rtept lat="26.26181572279008" lon="81.51992101298427">
+  </rtept>
+  <rtept lat="26.261812716095715" lon="81.51993274764871">
+  </rtept>
+  <rtept lat="26.26180970940128" lon="81.51994716452216">
+  </rtept>
+  <rtept lat="26.26180519935948" lon="81.51996593998527">
+  </rtept>
+  <rtept lat="26.261806402037312" lon="81.5199749924407">
+  </rtept>
+  <rtept lat="26.26180519935948" lon="81.51998203323936">
+  </rtept>
+  <rtept lat="26.261797682622753" lon="81.51999678538894">
+  </rtept>
+  <rtept lat="26.26179708128379" lon="81.52000885532951">
+  </rtept>
+  <rtept lat="26.26179347324997" lon="81.52001723723268">
+  </rtept>
+  <rtept lat="26.261793172580482" lon="81.52002025471782">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#15</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.26199883032952" lon="81.51905600057697">
+  </rtept>
+  <rtept lat="26.26200093501221" lon="81.519061364995">
+  </rtept>
+  <rtept lat="26.262003039694854" lon="81.51906505303239">
+  </rtept>
+  <rtept lat="26.262004843708525" lon="81.51907041745042">
+  </rtept>
+  <rtept lat="26.262007249060037" lon="81.51907578186845">
+  </rtept>
+  <rtept lat="26.262009353742574" lon="81.51908215211486">
+  </rtept>
+  <rtept lat="26.262013262438607" lon="81.51908751653289">
+  </rtept>
+  <rtept lat="26.26201536712103" lon="81.51909288095092">
+  </rtept>
+  <rtept lat="26.26201807314124" lon="81.51909656898832">
+  </rtept>
+  <rtept lat="26.262020478492474" lon="81.51910327451085">
+  </rtept>
+  <rtept lat="26.262022282505875" lon="81.51910930948114">
+  </rtept>
+  <rtept lat="26.262023485181455" lon="81.51911467389917">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#16</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262309721615104" lon="81.51916697697496">
+  </rtept>
+  <rtept lat="26.262311826292155" lon="81.51915356592988">
+  </rtept>
+  <rtept lat="26.262313028964737" lon="81.51914283709382">
+  </rtept>
+  <rtept lat="26.262315734978007" lon="81.51913680212354">
+  </rtept>
+  <rtept lat="26.262317839654948" lon="81.51912774966812">
+  </rtept>
+  <rtept lat="26.262320545668103" lon="81.51912104414558">
+  </rtept>
+  <rtept lat="26.26232084633623" lon="81.51911333279466">
+  </rtept>
+  <rtept lat="26.26232385301743" lon="81.51910394506311">
+  </rtept>
+  <rtept lat="26.262325356358005" lon="81.51909623371219">
+  </rtept>
+  <rtept lat="26.262328363039092" lon="81.51908617542838">
+  </rtept>
+  <rtept lat="26.2623307683839" lon="81.5190751113162">
+  </rtept>
+  <rtept lat="26.26233377506485" lon="81.5190677352414">
+  </rtept>
+  <rtept lat="26.26233557907338" lon="81.51906203554725">
+  </rtept>
+  <rtept lat="26.262336481077632" lon="81.51905432419633">
+  </rtept>
+  <rtept lat="26.262338585754204" lon="81.51904661284541">
+  </rtept>
+  <rtept lat="26.26234069043073" lon="81.51903990732288">
+  </rtept>
+  <rtept lat="26.262340991098803" lon="81.51903655456161">
+  </rtept>
+  <rtept lat="26.262343095775286" lon="81.51902582572555">
+  </rtept>
+  <rtept lat="26.262345801787855" lon="81.51901576744174">
+  </rtept>
+  <rtept lat="26.262347906464253" lon="81.51900671498632">
+  </rtept>
+  <rtept lat="26.26235031180866" lon="81.5189990036354">
+  </rtept>
+  <rtept lat="26.262351815148893" lon="81.51899263338899">
+  </rtept>
+  <rtept lat="26.262353017821056" lon="81.51898425148582">
+  </rtept>
+  <rtept lat="26.262355723833394" lon="81.51897218154525">
+  </rtept>
+  <rtept lat="26.262357227173556" lon="81.51896312908983">
+  </rtept>
+  <rtept lat="26.26235933184975" lon="81.5189527355299">
+  </rtept>
+  <rtept lat="26.262362037861937" lon="81.51894234196996">
+  </rtept>
+  <rtept lat="26.26236384187003" lon="81.51893396006679">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#17</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262365044542022" lon="81.51893362479066">
+  </rtept>
+  <rtept lat="26.262366848550066" lon="81.51892490761136">
+  </rtept>
+  <rtept lat="26.262370757234066" lon="81.51891518460369">
+  </rtept>
+  <rtept lat="26.262371659238045" lon="81.5189091496334">
+  </rtept>
+  <rtept lat="26.262374365249947" lon="81.51889674441671">
+  </rtept>
+  <rtept lat="26.26237646992583" lon="81.51889003889417">
+  </rtept>
+  <rtept lat="26.262378574601673" lon="81.51887964533424">
+  </rtept>
+  <rtept lat="26.26238158128138" lon="81.51887193398332">
+  </rtept>
+  <rtept lat="26.262382783953242" lon="81.5188642226324">
+  </rtept>
+  <rtept lat="26.26238458796101" lon="81.51885483490085">
+  </rtept>
+  <rtept lat="26.262386692636706" lon="81.51884008275127">
+  </rtept>
+  <rtept lat="26.262390601320035" lon="81.51883270667648">
+  </rtept>
+  <rtept lat="26.26239300666356" lon="81.51882097201204">
+  </rtept>
+  <rtept lat="26.262395712674966" lon="81.51880890207147">
+  </rtept>
+  <rtept lat="26.262396915346677" lon="81.51879314409351">
+  </rtept>
+  <rtept lat="26.262399922025917" lon="81.51878207998132">
+  </rtept>
+  <rtept lat="26.262401726033417" lon="81.51877168642139">
+  </rtept>
+  <rtept lat="26.262403830708802" lon="81.51876162813758">
+  </rtept>
+  <rtept lat="26.262405033380436" lon="81.51875324623441">
+  </rtept>
+  <rtept lat="26.262406837387857" lon="81.51874519960737">
+  </rtept>
+  <rtept lat="26.262409844066834" lon="81.51873078273391">
+  </rtept>
+  <rtept lat="26.26241194874207" lon="81.51872038917398">
+  </rtept>
+  <rtept lat="26.262414053417267" lon="81.51870831923341">
+  </rtept>
+  <rtept lat="26.26241555675667" lon="81.51870127843475">
+  </rtept>
+  <rtept lat="26.262416458760303" lon="81.51869021432256">
+  </rtept>
+  <rtept lat="26.26241826276755" lon="81.51867646800136">
+  </rtept>
+  <rtept lat="26.262420367442633" lon="81.51866909192657">
+  </rtept>
+  <rtept lat="26.262422171449824" lon="81.51866238640403">
+  </rtept>
+  <rtept lat="26.262424276124836" lon="81.51865098701572">
+  </rtept>
+  <rtept lat="26.262425178128396" lon="81.51864394621705">
+  </rtept>
+  <rtept lat="26.26241856343542" lon="81.51864126400804">
+  </rtept>
+  <rtept lat="26.262417661431808" lon="81.51864595787382">
+  </rtept>
+  <rtept lat="26.26241706009606" lon="81.5186483048067">
+  </rtept>
+  <rtept lat="26.26241585742455" lon="81.51865266339635">
+  </rtept>
+  <rtept lat="26.262413752749385" lon="81.51865635143375">
+  </rtept>
+  <rtept lat="26.26241224940996" lon="81.51866305695629">
+  </rtept>
+  <rtept lat="26.262409242731046" lon="81.5186694272027">
+  </rtept>
+  <rtept lat="26.26240834072735" lon="81.51867512689685">
+  </rtept>
+  <rtept lat="26.26240533404834" lon="81.51868283824777">
+  </rtept>
+  <rtept lat="26.262403530040892" lon="81.51868954377031">
+  </rtept>
+  <rtept lat="26.262402327369244" lon="81.51869524346446">
+  </rtept>
+  <rtept lat="26.262401124697586" lon="81.51869993733024">
+  </rtept>
+  <rtept lat="26.262399320690072" lon="81.51870731340503">
+  </rtept>
+  <rtept lat="26.262396013342894" lon="81.51871603058433">
+  </rtept>
+  <rtept lat="26.262394209335305" lon="81.51872374193525">
+  </rtept>
+  <rtept lat="26.26239300666356" lon="81.51872910635328">
+  </rtept>
+  <rtept lat="26.26238999998415" lon="81.51873949991321">
+  </rtept>
+  <rtept lat="26.26238729397261" lon="81.51874519960737">
+  </rtept>
+  <rtept lat="26.262385189296925" lon="81.51875257568216">
+  </rtept>
+  <rtept lat="26.262382483285275" lon="81.51876162813758">
+  </rtept>
+  <rtept lat="26.262381280613415" lon="81.51876632200336">
+  </rtept>
+  <rtept lat="26.262379777273566" lon="81.51877101586913">
+  </rtept>
+  <rtept lat="26.26237797326572" lon="81.5187793977723">
+  </rtept>
+  <rtept lat="26.262374665917932" lon="81.51878777967548">
+  </rtept>
+  <rtept lat="26.26237346324599" lon="81.51879280881738">
+  </rtept>
+  <rtept lat="26.262371057902058" lon="81.51879917906379">
+  </rtept>
+  <rtept lat="26.26236805122208" lon="81.51880856679534">
+  </rtept>
+  <rtept lat="26.26236474387401" lon="81.51881661342239">
+  </rtept>
+  <rtept lat="26.2623623385299" lon="81.51882331894492">
+  </rtept>
+  <rtept lat="26.26236143652585" lon="81.51882901863908">
+  </rtept>
+  <rtept lat="26.26235842984562" lon="81.51883505360937">
+  </rtept>
+  <rtept lat="26.26235602450138" lon="81.51884209440803">
+  </rtept>
+  <rtept lat="26.26235361915709" lon="81.51885114686345">
+  </rtept>
+  <rtept lat="26.262351514480795" lon="81.51886019931888">
+  </rtept>
+  <rtept lat="26.26234640312392" lon="81.51886724011754">
+  </rtept>
+  <rtept lat="26.262344298447495" lon="81.5188766278491">
+  </rtept>
+  <rtept lat="26.26234038976261" lon="81.5188866861329">
+  </rtept>
+  <rtept lat="26.26233828508607" lon="81.51889506803607">
+  </rtept>
+  <rtept lat="26.26233557907333" lon="81.51890344993924">
+  </rtept>
+  <rtept lat="26.262332271724336" lon="81.51891451405143">
+  </rtept>
+  <rtept lat="26.262330467715753" lon="81.51892121957397">
+  </rtept>
+  <rtept lat="26.262327461034722" lon="81.51893127785777">
+  </rtept>
+  <rtept lat="26.26232234967679" lon="81.5189416714177">
+  </rtept>
+  <rtept lat="26.262319342995546" lon="81.51895072387313">
+  </rtept>
+  <rtept lat="26.2623169376505" lon="81.51896178798532">
+  </rtept>
+  <rtept lat="26.262315434309816" lon="81.51896547602271">
+  </rtept>
+  <rtept lat="26.262310924287657" lon="81.51897251682138">
+  </rtept>
+  <rtept lat="26.262311224955813" lon="81.51898123400068">
+  </rtept>
+  <rtept lat="26.262308819610606" lon="81.51897888706779">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#18</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262031302571405" lon="81.51890982018566">
+  </rtept>
+  <rtept lat="26.26203400859124" lon="81.51890177355861">
+  </rtept>
+  <rtept lat="26.26203671461101" lon="81.51889506803607">
+  </rtept>
+  <rtept lat="26.262039721299566" lon="81.51888802723741">
+  </rtept>
+  <rtept lat="26.262040322637272" lon="81.51888366864776">
+  </rtept>
+  <rtept lat="26.262042727988053" lon="81.51887562202072">
+  </rtept>
+  <rtept lat="26.262044532001102" lon="81.51886992232656">
+  </rtept>
+  <rtept lat="26.26204753868946" lon="81.51886187569951">
+  </rtept>
+  <rtept lat="26.26205054537774" lon="81.51885315852022">
+  </rtept>
+  <rtept lat="26.262053251397123" lon="81.51884611772155">
+  </rtept>
+  <rtept lat="26.2620547547412" lon="81.51883941219901">
+  </rtept>
+  <rtept lat="26.26205776142929" lon="81.51882935391521">
+  </rtept>
+  <rtept lat="26.262060467448507" lon="81.51882398949718">
+  </rtept>
+  <rtept lat="26.262063474136454" lon="81.51881393121337">
+  </rtept>
+  <rtept lat="26.2620667814931" lon="81.51880655513858">
+  </rtept>
+  <rtept lat="26.262069788180884" lon="81.51879716740703">
+  </rtept>
+  <rtept lat="26.262072494199824" lon="81.51879012660837">
+  </rtept>
+  <rtept lat="26.262073095537357" lon="81.51878543274259">
+  </rtept>
+  <rtept lat="26.26207670356249" lon="81.51877839194393">
+  </rtept>
+  <rtept lat="26.262077906237504" lon="81.5187730275259">
+  </rtept>
+  <rtept lat="26.262080912924997" lon="81.51876397507047">
+  </rtept>
+  <rtept lat="26.262083017606198" lon="81.5187569342718">
+  </rtept>
+  <rtept lat="26.262084821618622" lon="81.51874754654025">
+  </rtept>
+  <rtept lat="26.262087226968482" lon="81.51874218212222">
+  </rtept>
+  <rtept lat="26.26208903098084" lon="81.51873581187581">
+  </rtept>
+  <rtept lat="26.262091135661894" lon="81.51872877107715">
+  </rtept>
+  <rtept lat="26.262092338336764" lon="81.51871971862172">
+  </rtept>
+  <rtept lat="26.262095044355174" lon="81.51871234254693">
+  </rtept>
+  <rtept lat="26.26209744970482" lon="81.5187006078825">
+  </rtept>
+  <rtept lat="26.26210015572311" lon="81.51869088487481">
+  </rtept>
+  <rtept lat="26.26210316241003" lon="81.51868049131488">
+  </rtept>
+  <rtept lat="26.262105567759505" lon="81.51866909192657">
+  </rtept>
+  <rtept lat="26.262107371771577" lon="81.51865970419502">
+  </rtept>
+  <rtept lat="26.26210917578363" lon="81.51864998118734">
+  </rtept>
+  <rtept lat="26.262112483138978" lon="81.51863657014226">
+  </rtept>
+  <rtept lat="26.262115489825575" lon="81.51862818823909">
+  </rtept>
+  <rtept lat="26.262116692500197" lon="81.51861611829852">
+  </rtept>
+  <rtept lat="26.262120300523968" lon="81.51860505418634">
+  </rtept>
+  <rtept lat="26.262122405204455" lon="81.51859566645479">
+  </rtept>
+  <rtept lat="26.262124810553534" lon="81.51858527289485">
+  </rtept>
+  <rtept lat="26.262127215902563" lon="81.51857420878267">
+  </rtept>
+  <rtept lat="26.26213022258878" lon="81.51856549160337">
+  </rtept>
+  <rtept lat="26.26213082392601" lon="81.51856012718534">
+  </rtept>
+  <rtept lat="26.262126313896683" lon="81.51856012718534">
+  </rtept>
+  <rtept lat="26.262123607878998" lon="81.51855979190921">
+  </rtept>
+  <rtept lat="26.262120901861255" lon="81.51855912135696">
+  </rtept>
+  <rtept lat="26.262117895174796" lon="81.51856113301372">
+  </rtept>
+  <rtept lat="26.262116993168846" lon="81.51856347994661">
+  </rtept>
+  <rtept lat="26.262115790494228" lon="81.518567167984">
+  </rtept>
+  <rtept lat="26.262115489825575" lon="81.51857186184978">
+  </rtept>
+  <rtept lat="26.262113385144968" lon="81.51857722626781">
+  </rtept>
+  <rtept lat="26.26211158113298" lon="81.5185846023426">
+  </rtept>
+  <rtept lat="26.262109777120973" lon="81.51859365479802">
+  </rtept>
+  <rtept lat="26.26210767244026" lon="81.51859868393993">
+  </rtept>
+  <rtept lat="26.262105267090824" lon="81.51860538946246">
+  </rtept>
+  <rtept lat="26.262105267090824" lon="81.51861310081338">
+  </rtept>
+  <rtept lat="26.262103463078716" lon="81.51862248854493">
+  </rtept>
+  <rtept lat="26.2621007570605" lon="81.5186295293436">
+  </rtept>
+  <rtept lat="26.26209835171092" lon="81.51863791124677">
+  </rtept>
+  <rtept lat="26.262095645692593" lon="81.51865065173959">
+  </rtept>
+  <rtept lat="26.26209354101162" lon="81.51866003947114">
+  </rtept>
+  <rtept lat="26.262092338336764" lon="81.51866741554593">
+  </rtept>
+  <rtept lat="26.262090233655734" lon="81.51867177413558">
+  </rtept>
+  <rtept lat="26.26208692629975" lon="81.51868250297164">
+  </rtept>
+  <rtept lat="26.26208542295609" lon="81.5186932318077">
+  </rtept>
+  <rtept lat="26.26208391961241" lon="81.51870027260637">
+  </rtept>
+  <rtept lat="26.262081814931232" lon="81.51870831923341">
+  </rtept>
+  <rtept lat="26.262078206906256" lon="81.51872105972623">
+  </rtept>
+  <rtept lat="26.26207640289373" lon="81.51872776524877">
+  </rtept>
+  <rtept lat="26.262073696874886" lon="81.51873882936096">
+  </rtept>
+  <rtept lat="26.262073095537357" lon="81.51874084101772">
+  </rtept>
+  <rtept lat="26.262069788180884" lon="81.51874989347314">
+  </rtept>
+  <rtept lat="26.262067082161884" lon="81.51876129286146">
+  </rtept>
+  <rtept lat="26.262063774805245" lon="81.51877068059301">
+  </rtept>
+  <rtept lat="26.262059565442108" lon="81.51878509746646">
+  </rtept>
+  <rtept lat="26.262056258085256" lon="81.51879213826513">
+  </rtept>
+  <rtept lat="26.26205385273476" lon="81.5188018612728">
+  </rtept>
+  <rtept lat="26.262051748053025" lon="81.51881359593725">
+  </rtept>
+  <rtept lat="26.262046937351794" lon="81.51882264839267">
+  </rtept>
+  <rtept lat="26.26204513333878" lon="81.5188330419526">
+  </rtept>
+  <rtept lat="26.26204393066342" lon="81.51883740054225">
+  </rtept>
+  <rtept lat="26.262038819293007" lon="81.5188504763112">
+  </rtept>
+  <rtept lat="26.262038518624152" lon="81.51885986404275">
+  </rtept>
+  <rtept lat="26.26203671461101" lon="81.51886489318466">
+  </rtept>
+  <rtept lat="26.262034309260105" lon="81.51887126343107">
+  </rtept>
+  <rtept lat="26.262031603240278" lon="81.51888031588649">
+  </rtept>
+  <rtept lat="26.262027694544862" lon="81.51889607386445">
+  </rtept>
+  <rtept lat="26.262026191200437" lon="81.51890445576763">
+  </rtept>
+  <rtept lat="26.26202348518042" lon="81.51891183184242">
+  </rtept>
+  <rtept lat="26.26202348518042" lon="81.51891753153657">
+  </rtept>
+  <rtept lat="26.26202258317374" lon="81.51892054902171">
+  </rtept>
+  <rtept lat="26.26202017782254" lon="81.51892826037263">
+  </rtept>
+  <rtept lat="26.26201837380911" lon="81.51893999503707">
+  </rtept>
+  <rtept lat="26.262017772471292" lon="81.51894636528348">
+  </rtept>
+  <rtept lat="26.262016569795648" lon="81.51895340608215">
+  </rtept>
+  <rtept lat="26.262014765782165" lon="81.51896514074659">
+  </rtept>
+  <rtept lat="26.262012661099728" lon="81.51897117571687">
+  </rtept>
+  <rtept lat="26.26201115775511" lon="81.51897888706779">
+  </rtept>
+  <rtept lat="26.2620099550794" lon="81.51898760424709">
+  </rtept>
+  <rtept lat="26.262009053072607" lon="81.51899866835927">
+  </rtept>
+  <rtept lat="26.262003941700662" lon="81.51900738553857">
+  </rtept>
+  <rtept lat="26.262003941700662" lon="81.51902012603139">
+  </rtept>
+  <rtept lat="26.262001837018026" lon="81.5190301843152">
+  </rtept>
+  <rtept lat="26.262000935011173" lon="81.51904057787513">
+  </rtept>
+  <rtept lat="26.261999130997445" lon="81.51905600057697">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#2</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262269293651222" lon="81.51921587151128">
+  </rtept>
+  <rtept lat="26.262267489643357" lon="81.51922023010093">
+  </rtept>
+  <rtept lat="26.2622662869703" lon="81.51922458869058">
+  </rtept>
+  <rtept lat="26.262264482960692" lon="81.51923028838473">
+  </rtept>
+  <rtept lat="26.26226267895106" lon="81.51923498225051">
+  </rtept>
+  <rtept lat="26.26225997293655" lon="81.51924168777305">
+  </rtept>
+  <rtept lat="26.26225967226827" lon="81.51924571108657">
+  </rtept>
+  <rtept lat="26.26225546291224" lon="81.51925576937037">
+  </rtept>
+  <rtept lat="26.262253959570764" lon="81.51926213961679">
+  </rtept>
+  <rtept lat="26.262251854892664" lon="81.51927085679608">
+  </rtept>
+  <rtept lat="26.26224794620466" lon="81.51928091507989">
+  </rtept>
+  <rtept lat="26.262247344868033" lon="81.51928560894567">
+  </rtept>
+  <rtept lat="26.26224524018981" lon="81.51929130863982">
+  </rtept>
+  <rtept lat="26.26224343617988" lon="81.51929566722947">
+  </rtept>
+  <rtept lat="26.262242534174902" lon="81.51929801416236">
+  </rtept>
+  <rtept lat="26.262241632169914" lon="81.51930036109525">
+  </rtept>
+  <rtept lat="26.262241331501585" lon="81.51930438440877">
+  </rtept>
+  <rtept lat="26.262239527491595" lon="81.51930941355067">
+  </rtept>
+  <rtept lat="26.262239226823258" lon="81.51931243103581">
+  </rtept>
+  <rtept lat="26.26223772348157" lon="81.5193147779687">
+  </rtept>
+  <rtept lat="26.26223742281323" lon="81.51932014238673">
+  </rtept>
+  <rtept lat="26.262234115461442" lon="81.51932584208089">
+  </rtept>
+  <rtept lat="26.262234115461442" lon="81.51932818901378">
+  </rtept>
+  <rtept lat="26.262232612119686" lon="81.51933522981244">
+  </rtept>
+  <rtept lat="26.26223140944627" lon="81.51933958840209">
+  </rtept>
+  <rtept lat="26.262231108777915" lon="81.51934294116336">
+  </rtept>
+  <rtept lat="26.262228703431035" lon="81.5193496466859">
+  </rtept>
+  <rtept lat="26.26222810209431" lon="81.51935299944716">
+  </rtept>
+  <rtept lat="26.262226298084112" lon="81.51935735803681">
+  </rtept>
+  <rtept lat="26.262225396079003" lon="81.51936071079808">
+  </rtept>
+  <rtept lat="26.262225396079003" lon="81.51936406355935">
+  </rtept>
+  <rtept lat="26.26222329140038" lon="81.51936875742513">
+  </rtept>
+  <rtept lat="26.262222389395244" lon="81.51937311601478">
+  </rtept>
+  <rtept lat="26.262220886053345" lon="81.5193771393283">
+  </rtept>
+  <rtept lat="26.26222058538496" lon="81.51937814515668">
+  </rtept>
+  <rtept lat="26.262217879368755" lon="81.51938317429858">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#3</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.26221787936934" lon="81.51938350957471">
+  </rtept>
+  <rtept lat="26.26221787936934" lon="81.51938686233598">
+  </rtept>
+  <rtept lat="26.26221727803256" lon="81.51939122092563">
+  </rtept>
+  <rtept lat="26.26221727803256" lon="81.5193959147914">
+  </rtept>
+  <rtept lat="26.262215173353795" lon="81.51939826172429">
+  </rtept>
+  <rtept lat="26.262213670011796" lon="81.5194046319707">
+  </rtept>
+  <rtept lat="26.262213670011796" lon="81.51940932583648">
+  </rtept>
+  <rtept lat="26.26221246733818" lon="81.5194170371874">
+  </rtept>
+  <rtept lat="26.262209460654095" lon="81.51942508381444">
+  </rtept>
+  <rtept lat="26.262209460654095" lon="81.51942944240409">
+  </rtept>
+  <rtept lat="26.262207656643607" lon="81.51943514209825">
+  </rtept>
+  <rtept lat="26.262207055306767" lon="81.51944184762078">
+  </rtept>
+  <rtept lat="26.262203447285685" lon="81.51945525866586">
+  </rtept>
+  <rtept lat="26.262203146617257" lon="81.51946028780776">
+  </rtept>
+  <rtept lat="26.262201342606673" lon="81.51947001081544">
+  </rtept>
+  <rtept lat="26.262201342606673" lon="81.51947470468122">
+  </rtept>
+  <rtept lat="26.262199237927618" lon="81.51947939854699">
+  </rtept>
+  <rtept lat="26.262198335922296" lon="81.51949012738305">
+  </rtept>
+  <rtept lat="26.26219593057474" lon="81.51949716818172">
+  </rtept>
+  <rtept lat="26.262195028569394" lon="81.51950420898038">
+  </rtept>
+  <rtept lat="26.262193825895586" lon="81.51950990867454">
+  </rtept>
+  <rtept lat="26.262192322553314" lon="81.51951862585383">
+  </rtept>
+  <rtept lat="26.26219111987948" lon="81.51952466082412">
+  </rtept>
+  <rtept lat="26.262188714531774" lon="81.51953807186919">
+  </rtept>
+  <rtept lat="26.262187511857903" lon="81.51954377156335">
+  </rtept>
+  <rtept lat="26.262186309184017" lon="81.5195494712575">
+  </rtept>
+  <rtept lat="26.26218570784707" lon="81.5195568473323">
+  </rtept>
+  <rtept lat="26.262183903836213" lon="81.51956254702645">
+  </rtept>
+  <rtept lat="26.262182099825324" lon="81.5195705936535">
+  </rtept>
+  <rtept lat="26.262181799156842" lon="81.51957327586251">
+  </rtept>
+  <rtept lat="26.2621805964829" lon="81.51958232831794">
+  </rtept>
+  <rtept lat="26.262179694477435" lon="81.51958534580308">
+  </rtept>
+  <rtept lat="26.262179393808943" lon="81.51959205132562">
+  </rtept>
+  <rtept lat="26.26217819113497" lon="81.5195943982585">
+  </rtept>
+  <rtept lat="26.262177589797986" lon="81.51959875684815">
+  </rtept>
+  <rtept lat="26.2621748837815" lon="81.51960713875133">
+  </rtept>
+  <rtept lat="26.2621748837815" lon="81.5196104915126">
+  </rtept>
+  <rtept lat="26.26217217776495" lon="81.51961820286351">
+  </rtept>
+  <rtept lat="26.26217127575942" lon="81.51961920869189">
+  </rtept>
+  <rtept lat="26.262170674422393" lon="81.5196255789383">
+  </rtept>
+  <rtept lat="26.26216977241685" lon="81.51962993752795">
+  </rtept>
+  <rtept lat="26.262169471748336" lon="81.51963396084147">
+  </rtept>
+  <rtept lat="26.262167968405745" lon="81.51963898998338">
+  </rtept>
+  <rtept lat="26.26216706640018" lon="81.51964401912528">
+  </rtept>
+  <rtept lat="26.26216676573166" lon="81.5196480424388">
+  </rtept>
+  <rtept lat="26.26216556305756" lon="81.51965407740909">
+  </rtept>
+  <rtept lat="26.262164661051976" lon="81.51965877127486">
+  </rtept>
+  <rtept lat="26.262164661051976" lon="81.51966178876">
+  </rtept>
+  <rtept lat="26.262161955035193" lon="81.51966514152127">
+  </rtept>
+  <rtept lat="26.262161955035193" lon="81.51966782373029">
+  </rtept>
+  <rtept lat="26.262161654366654" lon="81.51967117649156">
+  </rtept>
+  <rtept lat="26.262160451692502" lon="81.51967519980508">
+  </rtept>
+  <rtept lat="26.262160451692502" lon="81.51968089949924">
+  </rtept>
+  <rtept lat="26.262158948349793" lon="81.51968257587987">
+  </rtept>
+  <rtept lat="26.262158347012704" lon="81.5196879402979">
+  </rtept>
+  <rtept lat="26.26215654300142" lon="81.51969028723079">
+  </rtept>
+  <rtept lat="26.26215564099577" lon="81.51969933968621">
+  </rtept>
+  <rtept lat="26.262154438321556" lon="81.51970705103713">
+  </rtept>
+  <rtept lat="26.262153536315886" lon="81.51971241545516">
+  </rtept>
+  <rtept lat="26.262152333641655" lon="81.51971744459706">
+  </rtept>
+  <rtept lat="26.262151431635967" lon="81.5197228090151">
+  </rtept>
+  <rtept lat="26.262149627624577" lon="81.51972951453763">
+  </rtept>
+  <rtept lat="26.262148725618868" lon="81.51973454367953">
+  </rtept>
+  <rtept lat="26.2621484249503" lon="81.5197378964408">
+  </rtept>
+  <rtept lat="26.26214662093886" lon="81.51974527251559">
+  </rtept>
+  <rtept lat="26.26214571893313" lon="81.51974896055299">
+  </rtept>
+  <rtept lat="26.262145418264552" lon="81.51975197803813">
+  </rtept>
+  <rtept lat="26.262144816927393" lon="81.51975432497102">
+  </rtept>
+  <rtept lat="26.262144215590233" lon="81.51975600135165">
+  </rtept>
+  <rtept lat="26.262143012915903" lon="81.51976136576968">
+  </rtept>
+  <rtept lat="26.262142712247314" lon="81.5197653890832">
+  </rtept>
+  <rtept lat="26.262141810241555" lon="81.51976974767285">
+  </rtept>
+  <rtept lat="26.262141208904378" lon="81.51977310043412">
+  </rtept>
+  <rtept lat="26.262139104224236" lon="81.51977846485215">
+  </rtept>
+  <rtept lat="26.262139104223213" lon="81.5197814823373">
+  </rtept>
+  <rtept lat="26.26213699954405" lon="81.51978718203145">
+  </rtept>
+  <rtept lat="26.26213519553244" lon="81.51978986424047">
+  </rtept>
+  <rtept lat="26.262134594195228" lon="81.519796569763">
+  </rtept>
+  <rtept lat="26.26213309085218" lon="81.51980662804681">
+  </rtept>
+  <rtept lat="26.262131888177738" lon="81.51980998080808">
+  </rtept>
+  <rtept lat="26.262130986171893" lon="81.51981668633061">
+  </rtept>
+  <rtept lat="26.262129182160187" lon="81.51982339185315">
+  </rtept>
+  <rtept lat="26.262128280154318" lon="81.51982808571893">
+  </rtept>
+  <rtept lat="26.26212737814845" lon="81.51983244430858">
+  </rtept>
+  <rtept lat="26.26212707747982" lon="81.51983613234597">
+  </rtept>
+  <rtept lat="26.262125574136682" lon="81.51984116148788">
+  </rtept>
+  <rtept lat="26.26212437146216" lon="81.51984753173429">
+  </rtept>
+  <rtept lat="26.262123469456252" lon="81.5198502139433">
+  </rtept>
+  <rtept lat="26.26212106410715" lon="81.5198539019807">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#4</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262121665444184" lon="81.51985356670457">
+  </rtept>
+  <rtept lat="26.26212076343826" lon="81.51985926639873">
+  </rtept>
+  <rtept lat="26.262120462769623" lon="81.51986429554063">
+  </rtept>
+  <rtept lat="26.262118959426395" lon="81.51987133633929">
+  </rtept>
+  <rtept lat="26.262118057420448" lon="81.51987971824246">
+  </rtept>
+  <rtept lat="26.262115952739887" lon="81.51988810014564">
+  </rtept>
+  <rtept lat="26.262115351402578" lon="81.51989547622043">
+  </rtept>
+  <rtept lat="26.262113848059286" lon="81.51990117591458">
+  </rtept>
+  <rtept lat="26.26211204404731" lon="81.5199088872655">
+  </rtept>
+  <rtept lat="26.262111142041313" lon="81.51991458695966">
+  </rtept>
+  <rtept lat="26.262110240035305" lon="81.51991793972093">
+  </rtept>
+  <rtept lat="26.262109037360624" lon="81.51992464524346">
+  </rtept>
+  <rtept lat="26.26210873669195" lon="81.51993101548987">
+  </rtept>
+  <rtept lat="26.262107834685928" lon="81.51993470352727">
+  </rtept>
+  <rtept lat="26.262106632011218" lon="81.51994040322143">
+  </rtept>
+  <rtept lat="26.262105730005175" lon="81.51994476181108">
+  </rtept>
+  <rtept lat="26.262104827999128" lon="81.51995046150523">
+  </rtept>
+  <rtept lat="26.262104827999128" lon="81.51995582592326">
+  </rtept>
+  <rtept lat="26.262102422649637" lon="81.51996186089355">
+  </rtept>
+  <rtept lat="26.262101821312257" lon="81.5199662194832">
+  </rtept>
+  <rtept lat="26.262100919306178" lon="81.51996890169221">
+  </rtept>
+  <rtept lat="26.262099716631397" lon="81.51997594249087">
+  </rtept>
+  <rtept lat="26.262098814625304" lon="81.51997862469989">
+  </rtept>
+  <rtept lat="26.262098213287903" lon="81.51998331856566">
+  </rtept>
+  <rtept lat="26.26209670994439" lon="81.51998667132693">
+  </rtept>
+  <rtept lat="26.262096409275685" lon="81.51999170046884">
+  </rtept>
+  <rtept lat="26.262093703257307" lon="81.51999773543912">
+  </rtept>
+  <rtept lat="26.26209250058245" lon="81.52000343513328">
+  </rtept>
+  <rtept lat="26.262090696570144" lon="81.52001550507384">
+  </rtept>
+  <rtept lat="26.26208889255781" lon="81.52002388697701">
+  </rtept>
+  <rtept lat="26.262085885870523" lon="81.52003528636533">
+  </rtept>
+  <rtept lat="26.262084081858113" lon="81.52003897440272">
+  </rtept>
+  <rtept lat="26.262082578514416" lon="81.52004601520139">
+  </rtept>
+  <rtept lat="26.26208227784568" lon="81.52005037379104">
+  </rtept>
+  <rtept lat="26.262080473833215" lon="81.52005640876132">
+  </rtept>
+  <rtept lat="26.262080473833215" lon="81.52005842041808">
+  </rtept>
+  <rtept lat="26.262079571826966" lon="81.52006546121675">
+  </rtept>
+  <rtept lat="26.262078369151965" lon="81.5200711609109">
+  </rtept>
+  <rtept lat="26.26207776781446" lon="81.52007384311992">
+  </rtept>
+  <rtept lat="26.262076565139438" lon="81.52007753115731">
+  </rtept>
+  <rtept lat="26.262074761126886" lon="81.52008691888886">
+  </rtept>
+  <rtept lat="26.262072957114302" lon="81.5200922833069">
+  </rtept>
+  <rtept lat="26.26207235577677" lon="81.52009932410556">
+  </rtept>
+  <rtept lat="26.262071453770464" lon="81.52010468852359">
+  </rtept>
+  <rtept lat="26.262070551764154" lon="81.52011038821774">
+  </rtept>
+  <rtept lat="26.262068447082726" lon="81.5201147468074">
+  </rtept>
+  <rtept lat="26.262067845745168" lon="81.52012078177768">
+  </rtept>
+  <rtept lat="26.26206724440761" lon="81.52013050478536">
+  </rtept>
+  <rtept lat="26.26206423771976" lon="81.52013620447951">
+  </rtept>
+  <rtept lat="26.262063636382184" lon="81.52014324527818">
+  </rtept>
+  <rtept lat="26.26206183236943" lon="81.52014860969621">
+  </rtept>
+  <rtept lat="26.262060629694243" lon="81.52015464466649">
+  </rtept>
+  <rtept lat="26.262060028356643" lon="81.52015799742776">
+  </rtept>
+  <rtept lat="26.26205762300622" lon="81.52016302656966">
+  </rtept>
+  <rtept lat="26.26205732233742" lon="81.52016872626382">
+  </rtept>
+  <rtept lat="26.262055217655753" lon="81.52018180203277">
+  </rtept>
+  <rtept lat="26.262053112974048" lon="81.52019152504045">
+  </rtept>
+  <rtept lat="26.262052511636416" lon="81.52019487780171">
+  </rtept>
+  <rtept lat="26.262051609629953" lon="81.52019990694362">
+  </rtept>
+  <rtept lat="26.262049204279357" lon="81.52021164160806">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#5</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262156242331866" lon="81.51968995195466">
+  </rtept>
+  <rtept lat="26.26216315770832" lon="81.51969330471593">
+  </rtept>
+  <rtept lat="26.2621709750899" lon="81.51969632220107">
+  </rtept>
+  <rtept lat="26.262178792470955" lon="81.51970001023847">
+  </rtept>
+  <rtept lat="26.262183302498247" lon="81.51970302772361">
+  </rtept>
+  <rtept lat="26.26218871453077" lon="81.5197053746565">
+  </rtept>
+  <rtept lat="26.262193224557674" lon="81.51970872741776">
+  </rtept>
+  <rtept lat="26.262197734584408" lon="81.51971140962678">
+  </rtept>
+  <rtept lat="26.26220344728468" lon="81.51971342128354">
+  </rtept>
+  <rtept lat="26.262207656642598" lon="81.51971643876868">
+  </rtept>
+  <rtept lat="26.262213970679188" lon="81.5197204620822">
+  </rtept>
+  <rtept lat="26.262219984047054" lon="81.51972347956735">
+  </rtept>
+  <rtept lat="26.262224794741122" lon="81.51972616177636">
+  </rtept>
+  <rtept lat="26.262229906103347" lon="81.51973018508988">
+  </rtept>
+  <rtept lat="26.262234416128653" lon="81.5197328672989">
+  </rtept>
+  <rtept lat="26.262238324817112" lon="81.51973588478404">
+  </rtept>
+  <rtept lat="26.26224223350544" lon="81.51974091392594">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#6</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262135496200024" lon="81.51978919368821">
+  </rtept>
+  <rtept lat="26.262141208903362" lon="81.51979120534497">
+  </rtept>
+  <rtept lat="26.26214632026927" lon="81.51979221117335">
+  </rtept>
+  <rtept lat="26.262152634309192" lon="81.51979422283011">
+  </rtept>
+  <rtept lat="26.262158046343142" lon="81.519796569763">
+  </rtept>
+  <rtept lat="26.26216345837684" lon="81.51979757559138">
+  </rtept>
+  <rtept lat="26.26217037375286" lon="81.51979992252427">
+  </rtept>
+  <rtept lat="26.26217548511748" lon="81.51980126362878">
+  </rtept>
+  <rtept lat="26.262181799155826" lon="81.5198039458378">
+  </rtept>
+  <rtept lat="26.26218811319382" lon="81.5198052869423">
+  </rtept>
+  <rtept lat="26.262192623220752" lon="81.51980629277068">
+  </rtept>
+  <rtept lat="26.262198035252833" lon="81.51980763387519">
+  </rtept>
+  <rtept lat="26.26220314661624" lon="81.51980998080808">
+  </rtept>
+  <rtept lat="26.26220675463733" lon="81.51981433939773">
+  </rtept>
+  <rtept lat="26.26220705530575" lon="81.519817692159">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#7</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.26212136477477" lon="81.51985289615232">
+  </rtept>
+  <rtept lat="26.262128280153302" lon="81.51985624891358">
+  </rtept>
+  <rtept lat="26.262133090851165" lon="81.51985792529422">
+  </rtept>
+  <rtept lat="26.262137300211634" lon="81.51986127805549">
+  </rtept>
+  <rtept lat="26.26214361425205" lon="81.51986362498837">
+  </rtept>
+  <rtept lat="26.262150529629256" lon="81.5198676483019">
+  </rtept>
+  <rtept lat="26.26215744500605" lon="81.51987167161542">
+  </rtept>
+  <rtept lat="26.262163759045368" lon="81.51987535965281">
+  </rtept>
+  <rtept lat="26.262170674421373" lon="81.51987938296634">
+  </rtept>
+  <rtept lat="26.262177589796966" lon="81.51988206517535">
+  </rtept>
+  <rtept lat="26.262185106509104" lon="81.51988608848887">
+  </rtept>
+  <rtept lat="26.262192623220752" lon="81.5198901118024">
+  </rtept>
+  <rtept lat="26.262199237926602" lon="81.51989245873528">
+  </rtept>
+  <rtept lat="26.26220705530575" lon="81.5198988289817">
+  </rtept>
+  <rtept lat="26.262215474021172" lon="81.51990151119071">
+  </rtept>
+  <rtept lat="26.262222389394097" lon="81.51990586978036">
+  </rtept>
+  <rtept lat="26.26222960543497" lon="81.51990821671325">
+  </rtept>
+  <rtept lat="26.262241932836847" lon="81.51991425168353">
+  </rtept>
+  <rtept lat="26.262240730163775" lon="81.51992397469121">
+  </rtept>
+  <rtept lat="26.262240429495446" lon="81.51993068021375">
+  </rtept>
+  <rtept lat="26.262241331500437" lon="81.5199363799079">
+  </rtept>
+  <rtept lat="26.262240730163775" lon="81.51994275015431">
+  </rtept>
+  <rtept lat="26.262241331500437" lon="81.51994710874396">
+  </rtept>
+  <rtept lat="26.262241632168763" lon="81.51995280843812">
+  </rtept>
+  <rtept lat="26.262240730163775" lon="81.5199575023039">
+  </rtept>
+  <rtept lat="26.262241632168763" lon="81.51996320199805">
+  </rtept>
+  <rtept lat="26.262242233505425" lon="81.51996990752059">
+  </rtept>
+  <rtept lat="26.26224253417375" lon="81.51997661304313">
+  </rtept>
+  <rtept lat="26.262242233505425" lon="81.5199813069089">
+  </rtept>
+  <rtept lat="26.26224253417375" lon="81.5199900240882">
+  </rtept>
+  <rtept lat="26.26224253417375" lon="81.51999672961074">
+  </rtept>
+  <rtept lat="26.262242834842077" lon="81.52000410568553">
+  </rtept>
+  <rtept lat="26.262242834842077" lon="81.52001282286483">
+  </rtept>
+  <rtept lat="26.26224253417375" lon="81.52001952838737">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#8</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262241030832" lon="81.51995716702777">
+  </rtept>
+  <rtept lat="26.26223652080695" lon="81.51995649647552">
+  </rtept>
+  <rtept lat="26.262231409445015" lon="81.51995448481875">
+  </rtept>
+  <rtept lat="26.262226298082854" lon="81.51995482009488">
+  </rtept>
+  <rtept lat="26.26222118672047" lon="81.51995482009488">
+  </rtept>
+  <rtept lat="26.26221607535786" lon="81.51995482009488">
+  </rtept>
+  <rtept lat="26.26221156533184" lon="81.51995347899037">
+  </rtept>
+  <rtept lat="26.2622079573109" lon="81.51995314371425">
+  </rtept>
+  <rtept lat="26.26220194394241" lon="81.51995113205749">
+  </rtept>
+  <rtept lat="26.262200440600243" lon="81.51995314371425">
+  </rtept>
+</rte>
+<rte>
+  <name>Route#9</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262241331500285" lon="81.51991458695966">
+  </rtept>
+  <rtept lat="26.262242233505276" lon="81.51990788143712">
+  </rtept>
+  <rtept lat="26.26224433818355" lon="81.51990151119071">
+  </rtept>
+  <rtept lat="26.2622437368469" lon="81.51989681732493">
+  </rtept>
+  <rtept lat="26.26224463885187" lon="81.5198914529069">
+  </rtept>
+  <rtept lat="26.26224463885187" lon="81.5198850826605">
+  </rtept>
+  <rtept lat="26.26224524018851" lon="81.51987971824246">
+  </rtept>
+  <rtept lat="26.262241030831955" lon="81.51987737130958">
+  </rtept>
+  <rtept lat="26.262237122143592" lon="81.51987670075732">
+  </rtept>
+  <rtept lat="26.262234115460142" lon="81.51987670075732">
+  </rtept>
+  <rtept lat="26.26223291278674" lon="81.51987670075732">
+  </rtept>
+  <rtept lat="26.262227500756282" lon="81.51987670075732">
+  </rtept>
+  <rtept lat="26.262222690062327" lon="81.51987670075732">
+  </rtept>
+  <rtept lat="26.262220284715276" lon="81.51987502437669">
+  </rtept>
+  <rtept lat="26.262216075357816" lon="81.51987502437669">
+  </rtept>
+</rte>
+<rte>
+  <name>bridge</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.26230851894245" lon="81.51897922234392">
+  </rtept>
+  <rtept lat="26.262295451789264" lon="81.51897279631929">
+  </rtept>
+  <rtept lat="26.262284327065707" lon="81.51896877300577">
+  </rtept>
+  <rtept lat="26.262271097663323" lon="81.51896642607288">
+  </rtept>
+  <rtept lat="26.262257266922862" lon="81.51896340858774">
+  </rtept>
+  <rtept lat="26.262247946205537" lon="81.51896106165485">
+  </rtept>
+  <rtept lat="26.262239226824136" lon="81.51895871472196">
+  </rtept>
+  <rtept lat="26.26222780142682" lon="81.51895536196069">
+  </rtept>
+  <rtept lat="26.262219082043906" lon="81.51895402085619">
+  </rtept>
+  <rtept lat="26.26221156533397" lon="81.51894966226654">
+  </rtept>
+  <rtept lat="26.26220555196567" lon="81.51895033281879">
+  </rtept>
+  <rtept lat="26.26219352522814" lon="81.5189466447814">
+  </rtept>
+  <rtept lat="26.262182400494815" lon="81.518942956744">
+  </rtept>
+  <rtept lat="26.26216826907527" lon="81.51894027453498">
+  </rtept>
+  <rtept lat="26.262155941665327" lon="81.51893725704984">
+  </rtept>
+  <rtept lat="26.26214181024256" lon="81.51893390428857">
+  </rtept>
+  <rtept lat="26.262128580823944" lon="81.51893021625118">
+  </rtept>
+  <rtept lat="26.26211475006651" lon="81.51892686348991">
+  </rtept>
+  <rtept lat="26.262101821313507" lon="81.5189241812809">
+  </rtept>
+</rte>
+<rte>
+  <name>entry1</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262393770244955" lon="81.51944922369557">
+  </rtept>
+  <rtept lat="26.26238805755404" lon="81.5194482178672">
+  </rtept>
+  <rtept lat="26.262382044194883" lon="81.51944687676269">
+  </rtept>
+  <rtept lat="26.262373926159526" lon="81.51944486510592">
+  </rtept>
+  <rtept lat="26.262366409459613" lon="81.51944285344916">
+  </rtept>
+  <rtept lat="26.262357690087104" lon="81.51944117706853">
+  </rtept>
+  <rtept lat="26.262346866037564" lon="81.51943815958339">
+  </rtept>
+  <rtept lat="26.262339650003977" lon="81.51943815958339">
+  </rtept>
+  <rtept lat="26.262332433969938" lon="81.51943380099374">
+  </rtept>
+  <rtept lat="26.26232852528465" lon="81.51943380099374">
+  </rtept>
+  <rtept lat="26.262321309249923" lon="81.51943111878472">
+  </rtept>
+  <rtept lat="26.262314694551026" lon="81.51943011295634">
+  </rtept>
+  <rtept lat="26.26230717784728" lon="81.51942642491895">
+  </rtept>
+  <rtept lat="26.26230146515211" lon="81.51942474853831">
+  </rtept>
+  <rtept lat="26.262294850452086" lon="81.51942106050092">
+  </rtept>
+  <rtept lat="26.26228943842451" lon="81.51941770773965">
+  </rtept>
+  <rtept lat="26.262282222387356" lon="81.51941234332162">
+  </rtept>
+  <rtept lat="26.262275908354475" lon="81.51941066694098">
+  </rtept>
+  <rtept lat="26.262266587638646" lon="81.51940530252296">
+  </rtept>
+  <rtept lat="26.262259070931787" lon="81.51940295559007">
+  </rtept>
+  <rtept lat="26.262254560907436" lon="81.51939993810493">
+  </rtept>
+  <rtept lat="26.262246442863166" lon="81.51939390313464">
+  </rtept>
+  <rtept lat="26.26224042949667" lon="81.51939189147788">
+  </rtept>
+  <rtept lat="26.262232612119764" lon="81.51938753288823">
+  </rtept>
+  <rtept lat="26.26222629808419" lon="81.51938518595534">
+  </rtept>
+  <rtept lat="26.262218781373726" lon="81.51938283902246">
+  </rtept>
+</rte>
+<rte>
+  <name>entry1#2</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.262296191549083" lon="81.51916597114658">
+  </rtept>
+  <rtept lat="26.262296353793186" lon="81.5191575334652">
+  </rtept>
+  <rtept lat="26.262296955129557" lon="81.51914848100978">
+  </rtept>
+  <rtept lat="26.262297556465924" lon="81.51914076965886">
+  </rtept>
+  <rtept lat="26.262298458470475" lon="81.51913037609893">
+  </rtept>
+  <rtept lat="26.26229936047502" lon="81.51911394756871">
+  </rtept>
+  <rtept lat="26.26229996181138" lon="81.51910489511329">
+  </rtept>
+  <rtept lat="26.262301164484086" lon="81.51908980768758">
+  </rtept>
+  <rtept lat="26.262302066488605" lon="81.51907740247088">
+  </rtept>
+  <rtept lat="26.26230236715678" lon="81.51906868529159">
+  </rtept>
+  <rtept lat="26.26230326916129" lon="81.51905628007489">
+  </rtept>
+  <rtept lat="26.26230326916129" lon="81.51904588651496">
+  </rtept>
+  <rtept lat="26.262304471833968" lon="81.51903683405953">
+  </rtept>
+  <rtept lat="26.262304471833968" lon="81.51902778160411">
+  </rtept>
+  <rtept lat="26.262305373838462" lon="81.51901571166354">
+  </rtept>
+  <rtept lat="26.26230627584295" lon="81.51900531810361">
+  </rtept>
+  <rtept lat="26.26230657651111" lon="81.51899291288692">
+  </rtept>
+  <rtept lat="26.262308079851906" lon="81.51898251932698">
+  </rtept>
+  <rtept lat="26.262307616937974" lon="81.51897922234392">
+  </rtept>
+</rte>
+<rte>
+  <name>stairs2</name>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <rtept lat="26.26203040056478" lon="81.51891015546178">
+  </rtept>
+  <rtept lat="26.262031164148915" lon="81.5189141229971">
+  </rtept>
+  <rtept lat="26.26203026214229" lon="81.51892049324351">
+  </rtept>
+  <rtept lat="26.262030562811166" lon="81.51892384600478">
+  </rtept>
+  <rtept lat="26.262030562811166" lon="81.51892753404218">
+  </rtept>
+  <rtept lat="26.262029961473413" lon="81.51893457484084">
+  </rtept>
+  <rtept lat="26.26203026214229" lon="81.51893926870662">
+  </rtept>
+  <rtept lat="26.26203026214229" lon="81.51894429784852">
+  </rtept>
+  <rtept lat="26.26203026214229" lon="81.5189489917143">
+  </rtept>
+  <rtept lat="26.262029360135656" lon="81.51895234447557">
+  </rtept>
+  <rtept lat="26.262029360135656" lon="81.51895636778909">
+  </rtept>
+  <rtept lat="26.262028458129016" lon="81.51896307331162">
+  </rtept>
+  <rtept lat="26.262028458129016" lon="81.51896709662515">
+  </rtept>
+  <rtept lat="26.262029360135656" lon="81.51897111993867">
+  </rtept>
+  <rtept lat="26.262028458129016" lon="81.51897816073733">
+  </rtept>
+  <rtept lat="26.262028157460136" lon="81.51898218405086">
+  </rtept>
+  <rtept lat="26.26202665411571" lon="81.51898620736438">
+  </rtept>
+  <rtept lat="26.262025451440163" lon="81.51899123650628">
+  </rtept>
+  <rtept lat="26.26202605277794" lon="81.5189952598198">
+  </rtept>
+  <rtept lat="26.26202515077128" lon="81.51900196534234">
+  </rtept>
+  <rtept lat="26.262024248764604" lon="81.51900632393199">
+  </rtept>
+  <rtept lat="26.262023346757925" lon="81.51901336473065">
+  </rtept>
+  <rtept lat="26.262022144082337" lon="81.51901939970094">
+  </rtept>
+  <rtept lat="26.26202064073784" lon="81.51902576994735">
+  </rtept>
+  <rtept lat="26.26202034006894" lon="81.51902878743249">
+  </rtept>
+  <rtept lat="26.26201943806223" lon="81.51903415185052">
+  </rtept>
+  <rtept lat="26.262019137393327" lon="81.5190388457163">
+  </rtept>
+  <rtept lat="26.262017634048785" lon="81.51904488068658">
+  </rtept>
+  <rtept lat="26.262016732042056" lon="81.51905125093299">
+  </rtept>
+  <rtept lat="26.26201522869749" lon="81.51905527424651">
+  </rtept>
+  <rtept lat="26.26201522869749" lon="81.51905929756003">
+  </rtept>
+  <rtept lat="26.262013124015063" lon="81.51906063866454">
+  </rtept>
+</rte>
+</gpx>
